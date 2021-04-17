@@ -4,14 +4,12 @@
 <br>
 
 <p><em><b>Languages:</b></em> </p>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
+<a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a> 
+<a href="#"><img src="https://img.shields.io/badge/JSP-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
+</a>
 <p><em><b>I.D.E:</b></em> </p>
-<a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-E94057?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<a href="#"><img src="https://img.shields.io/badge/Eclipse-E94057?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 </a>
 </br>
 
