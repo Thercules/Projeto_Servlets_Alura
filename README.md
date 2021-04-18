@@ -8,6 +8,8 @@
 </a> 
 <a href="#"><img src="https://img.shields.io/badge/JSP-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
+<a href="#"><img src="https://img.shields.io/badge/HTML-E94057?style=for-the-badge&logo=HTML5&logoColor=white"/>
+</a> 
 <p><em><b>I.D.E:</b></em> </p>
 <a href="#"><img src="https://img.shields.io/badge/Eclipse-E94057?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 </a>
